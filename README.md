@@ -1,7 +1,7 @@
-# P2P-File-Sharing-for-Terminal
+# P2P File Sharing with WebRTC
+
 A P2P File Sharing Utility for the terminal built using WebRTC
 
-# P2P File Sharing with WebRTC
 #### What it does
 It is a p2p file sharing command line utility built with WebRTC and Node.js. Though there is a need for a signalling server initially for the handshake, there are no servers involved in the transfer, the two machines are connected directly (p2p).
 The best part about this is that you need to type just 1 command to send a file of ***any size*** to a person ***anywhere*** in the world. 
