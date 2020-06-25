@@ -1,1 +1,1 @@
-web : node signalling-server.js
+web: node signalling-server.js

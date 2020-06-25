@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
-var socket = require("socket.io-client")("http://localhost:5000");
+var socket = require("socket.io-client")("https://webrtc-fileshare.herokuapp.com/");
 var wrtc = require("wrtc");
 var fs = require("fs");
 
